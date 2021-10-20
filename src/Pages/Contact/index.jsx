@@ -82,7 +82,7 @@ const Contact = () => {
 
   return (
     <MainLayout>
-      <Title title={'Contato'} span={'Contato'} />
+      <Title title={'Contato'} span={''} />
       <ContactStyled>
         <InnerLayout className={'contact-section'}>
           <div className="left-content">

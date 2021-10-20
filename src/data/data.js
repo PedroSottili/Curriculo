@@ -60,12 +60,18 @@ export const user = {
   educationalQualifications: [
     {
       id: 1,
+      durationPeriod: '2007 - 2017',
+      course: 'Ensino fundamental e ensino médio',
+      school: 'Colegio Sânta Inês',
+    },
+    {
+      id: 2,
       durationPeriod: '08/2018 - 12/2020',
       course: 'Jogos Digitais',
       school: 'Uniritter',
     },
     {
-      id: 2,
+      id: 3,
       durationPeriod: '02/2021 - 02/2022',
       course: 'Programa Starter',
       school: 'Growdev',
